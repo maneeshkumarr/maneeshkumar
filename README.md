@@ -19,7 +19,7 @@
 > 🔥 **Passion:** Crafting beautiful, efficient, real-world web applications  
 > 🧑‍💻 **Role:** Full Stack Developer  
 > ☁️ **Currently Exploring:** DevOps & Cloud Computing  
-> 🧑‍🏫 **Tech Club:** IT Club President | SDM College, Ujire  
+> 🧑‍🏫 **Tech Club:** IT Club President | SDM College, Ujire  EVent-Modulator  | NMAM IT NITTE
 > 🌍 **Mission:** Code to solve, build to inspire
 
 ---
